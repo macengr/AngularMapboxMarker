@@ -1,6 +1,6 @@
 # Mapbox App using Angular
 
-This will add two markers denoting Starbucks locations in the Monroeville, PA area, along with a popup for each.
+This will add two markers denoting Starbucks locations in the Monroeville, PA area, along with a popup for each. Note that you will need your own API key.
 
 # Mapboxwithmarker
 
